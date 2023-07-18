@@ -102,3 +102,9 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=za79hra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=za79hra&theme=dracula)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=za79hra)](https://github.com/za79hra/github-readme-activity-graph)
