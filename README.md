@@ -6,7 +6,7 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zahra-mohammadi-964879248">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://mailto:%20mohammadimehrzahra@gmail.com">
+  <a href="mailto:mohammadimehrzahra@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=pinki&style=for-the-badge" alt="LinkedIn Badge"/>
 </div>
 <div id="badges" align="center">
