@@ -103,10 +103,6 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=za79hra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Snake animation](https://github.com/{{za79hra}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
-
-
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=za79hra&theme=dracula)
 
 
